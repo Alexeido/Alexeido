@@ -1,4 +1,8 @@
-Hi, I'm Alexeido, software engineering student at the University of Extremadura, and I'm trying to be a future white hat pentester, my twitter is @minepejpg and my contact email is abarrenam03@gmail.com  
+Hi, I'm Alexeido, an aspiring software engineer, with intentions of becoming a future pentester.
+
+I have several projects in mind for the next few months both to learn and to teach anyone who visits my github.
+
+Next certification in mind -> eJPT 
 
 <!---
 Alexeido/Alexeido is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
