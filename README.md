@@ -18,7 +18,7 @@
 <br>
 
 - Software engineering student
-- Basic knowledge of C/C++, Java, Python, AT&T Assembly
+- Basic knowledge of C/C++, Java, Python, some Assembly Languages
 - Currently learning Unity by Self
 - Next 👉 Basics of Cibersecurity
 
