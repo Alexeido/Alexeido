@@ -61,7 +61,7 @@ Here is a selection of projects that showcase my key skills and interests.
   </p>
   <b align="center">WallaBot: API Automation Scraper</b>
   <br><br>
-  <p>An automation bot that monitors Wallapop for new products by analyzing encrypted API traffic to understand the private API and build a custom client in Python. Showcases skills in reverse engineering and automation.</p>
+  <p>(Personal Project) An automation bot that monitors Wallapop for new products by analyzing encrypted API traffic to understand the private API and build a custom client in Python. Showcases skills in reverse engineering and automation.</p>
   <br>
   <i>(Private Repository)</i>
 </td>
